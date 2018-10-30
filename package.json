@@ -1,0 +1,31 @@
+{
+  "name": "clickmania",
+  "version": "1.0.0",
+  "description": "Clickmania is a simple interactive javascript game. The objective of the game is to click on the circles and increase your score before the circle expires. Each time a circle is successfully clicked, the circle multiplies and branches off in random directions at random distances. As the game progresses the circle will increase more.",
+  "main": "clickmania.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch --mode=development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyippiy/clickmania.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyippiy/clickmania/issues"
+  },
+  "homepage": "https://github.com/cyippiy/clickmania#readme",
+  "dependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.1.0",
+    "babel-loader": "^8.0.4",
+    "howler": "^2.0.15",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  }
+}

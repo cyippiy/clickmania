@@ -68,7 +68,7 @@ Day 3: Figure out `Howler.js`. Get the Board object to have sounds properly work
 - [ ]  Get animation for respawns working
 - [ ]  Be able to destroy `Circle` via `onClick`
 
-Day 4: Create the logic backend. Build out m
+Day 4: Create the logic backend.
 - [ ]  Functional screen on `Canvas` frontend that correctly handles creation and running of the simulation
 - [ ]  Ensure starting, stopping, and resetting works.
 
