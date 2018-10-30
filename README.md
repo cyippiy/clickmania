@@ -42,6 +42,10 @@ In the future, I would like to add:
 - [ ]  Accuracy of the clicker
 - [ ]  Add easier/harder difficulty. Making the circles become smaller and smaller
 
+## Wireframe
+![](./wireframes/untitled_page.png "Main Screen")
+
+
 ## Implementation Timeline
 Day 1:
 - [ ]  Review Astroids project
