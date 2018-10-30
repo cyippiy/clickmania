@@ -43,6 +43,12 @@ In the future, I would like to add:
 - [ ]  Add easier/harder difficulty. Making the circles become smaller and smaller
 
 ## Wireframe
+The app will consist of a single screen with the simulation canvas with my github and linkedin images. 
+
+
+The circles will generate a new circle when clicked.
+
+There will be controls to change the state of the game.
 ![](./wireframes/untitled_page.png "Main Screen")
 
 
