@@ -1,4 +1,7 @@
 # **Clickmania**
+
+[Live demo](https://elastic-bartik-882c6e.netlify.com/)
+
 ## Background and Overview
 Clickmania is a simple interactive javascript game. The objective of the game is to click on the circles and increase your score before the circle expires. Each time a circle is successfully clicked, the circle multiplies and branches off in random directions at random distances. As the game progresses the circle will increase more.
 
